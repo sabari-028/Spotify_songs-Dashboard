@@ -26,12 +26,7 @@ If you'd like to contribute to the project, feel free to fork the repository and
 
 ## Data Source
 
-The Spotify Songs database used in this project can be found [here](link_to_data_source).
+The Spotify Songs database used in this project can be found.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Make sure to replace placeholders like `your-username`, `link_to_screenshot_1`, `link_to_data_source`, etc., with your actual information. Also, include relevant details about your Tableau version, any specific dependencies, or instructions that users may need to know.
